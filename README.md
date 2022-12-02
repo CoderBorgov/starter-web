@@ -9,4 +9,8 @@ Sample website with plenty of files for demos
 
 ## How to Contributes
 
-##Deployment
+this is contributes
+
+## Deployment
+
+this is deployment
