@@ -14,3 +14,7 @@ this is contributes
 ## Deployment
 
 this is deployment
+
+## Copyright 
+
+Git. Training.
