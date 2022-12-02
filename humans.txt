@@ -2,7 +2,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	
+	Justin Cowman borgov@gmail.com
+	
     <name> -- <role> -- <twitter>
 
 # THANKS
