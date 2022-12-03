@@ -17,4 +17,4 @@ this is deployment
 
 ## Copyright 
 
-Git. Training.
+Git. Training. 2022. All right reserved.
