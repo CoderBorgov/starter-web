@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 
 ## How to Contributes
 
-this is contributes, please fork this repo.
+this is contributes, please fork this repo. Adding more for stash example.
 
 ## Deployment
 
